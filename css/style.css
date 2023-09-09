@@ -10,7 +10,7 @@ body{
     align-items: center;
     /* padding: 50px 40px 0px 40px; */
     gap: 57px;
-    padding: 20px 8%;
+    padding: 20px 5%;
     }
 .header-text{
     max-width:708px;
@@ -48,7 +48,7 @@ padding: 15px 33px;
 border: 0px;
 }
 .header .pro-pic{
-    width: 635px;
+    width: 435px;
     margin-bottom: 0px;
 }
 .feature{
@@ -137,6 +137,14 @@ line-height: normal;
 margin-left: 20px;
 margin-bottom: 24px;
 }
+.hotdeal_title span{
+    color: #E55473;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
 .hotdeal_des{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -197,7 +205,7 @@ padding: 0px 463px 48px 463px;
     padding: 0px 20px 128px 20px;
 }
 .upper-foot{
-    padding: 122px 287px;
+    padding: 80px 287px 122px 287px;
     background-image: url('../img/Rectangle\ 9.png');
     background-repeat: no-repeat;
     text-align: center;
@@ -206,7 +214,6 @@ padding: 0px 463px 48px 463px;
     /* margin-bottom: 128px;
     margin: 0 auto; */
     margin: 0px 40px 128px 40px;
-
 }
 
 .upper-foot-title{
@@ -218,6 +225,7 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 margin-bottom: -5px;
+
 }
 .up-foot-des{
     color: rgba(39, 39, 39, 0.60);
@@ -288,7 +296,9 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px; /* 166.667% */
-padding: 24px 490px;
+padding: -4px 490px 32px 490px;
+width: 625px;
+margin: 0 auto;
 }
 
 .foot-para{
@@ -299,8 +309,6 @@ font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+margin-top: 32px;
 }
 
-section{
-    padding: 0px;
-}
